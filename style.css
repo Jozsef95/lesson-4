@@ -1,0 +1,31 @@
+h1{
+    color: rgb(150, 106, 141);
+    font-size: 50px;
+   }
+.item {
+    color: rgb(88, 145, 145);
+}
+.h4 {
+    color: blue;
+}
+h4 {
+    color: blueviolet;
+}
+#h5 {
+    color: rgb(179, 81, 81);
+}
+h5 {
+    color: rgb(54, 168, 168);
+}
+.div {
+    color: rgb(39, 93, 75);
+}
+.div1 {
+    color: aliceblue;
+}
+.div2 {
+    color: rgb(118, 59, 59);
+}
+* {
+    color: aqua;
+}
